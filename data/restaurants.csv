@@ -1,0 +1,101 @@
+id,Category,Price_Tier,Neighborhood,Opening_Time,Closing_Time,Average_Rating,Good_for_kids
+1,Chinese,expensive,Battery Park City,8:00,12:00,1.2,FALSE
+2,Vietnamese,cheap,Bay Ridge,8:00,17:00,4.7,FALSE
+3,Vietnamese,medium,Hell's Kitchen,8:00,20:00,3.4,FALSE
+4,Thai,cheap,East Village,8:00,15:00,1.8,FALSE
+5,Vietnamese,cheap,East Village,8:00,19:00,3.6,FALSE
+6,American,expensive,Battery Park City,8:00,15:00,2.9,FALSE
+7,Italian,expensive,Financial District,8:00,19:00,3,FALSE
+8,Eastern European,expensive,East Village,8:00,13:00,2.9,TRUE
+9,Greek,cheap,Upper West Side,8:00,15:00,3.9,TRUE
+10,Middle Eastern,medium,Park Slope,8:00,14:00,2.6,FALSE
+11,British,cheap,Greenwich Village,8:00,18:00,2.6,TRUE
+12,Caribbean,expensive,SoHo,8:00,17:00,2.6,FALSE
+13,Latin American,expensive,Hell's Kitchen,8:00,18:00,3,TRUE
+14,American,expensive,Crown Heights,8:00,13:00,1.1,TRUE
+15,Italian,medium,Financial District,8:00,17:00,5,TRUE
+16,Japanese,expensive,Crown Heights,8:00,12:00,2.5,TRUE
+17,Thai,medium,Greenpoint,8:00,15:00,4.9,FALSE
+18,American,medium,Rosebank,8:00,19:00,4,TRUE
+19,Eastern European,expensive,Park Slope,8:00,16:00,4.6,FALSE
+20,Eastern European,expensive,Williamsburg,8:00,12:00,1.4,FALSE
+21,Middle Eastern,expensive,Greenpoint,8:00,20:00,3.6,FALSE
+22,Italian,expensive,SoHo,8:00,17:00,2.8,TRUE
+23,Italian,cheap,SoHo,8:00,20:00,2.1,TRUE
+24,Thai,cheap,Tribeca,8:00,17:00,2.5,TRUE
+25,Mediterranean,medium,Coney Island,8:00,20:00,4.2,FALSE
+26,Indian,cheap,Hell's Kitchen,8:00,14:00,3.5,TRUE
+27,Mediterranean,medium,Washington Heights,8:00,17:00,2.1,TRUE
+28,Italian,expensive,Tribeca,8:00,16:00,2,FALSE
+29,Middle Eastern,cheap,Washington Heights,8:00,14:00,1.6,FALSE
+30,Caribbean,medium,Greenpoint,8:00,14:00,2.2,TRUE
+31,American,medium,Upper West Side,8:00,16:00,3.6,TRUE
+32,Chinese,expensive,Red Hook,8:00,20:00,4.3,TRUE
+33,Mexican,cheap,Melrose,8:00,17:00,2.5,TRUE
+34,Mediterranean,expensive,East Village,8:00,17:00,4.1,FALSE
+35,Indian,expensive,Sunset Park,8:00,12:00,2.7,TRUE
+36,German,medium,Crown Heights,8:00,13:00,4.8,FALSE
+37,Thai,cheap,Bedford-Stuyvesant,8:00,12:00,3,FALSE
+38,Thai,cheap,Coney Island,8:00,17:00,3.8,TRUE
+39,British,medium,Williamsburg,8:00,20:00,3.9,TRUE
+40,Caribbean,expensive,Coney Island,8:00,13:00,2.8,FALSE
+41,Indian,medium,Chelsea,8:00,19:00,2,FALSE
+42,German,expensive,Gowanus,8:00,19:00,3.9,TRUE
+43,Eastern European,medium,Washington Heights,8:00,20:00,1.7,TRUE
+44,Caribbean,medium,Lower East Side,8:00,14:00,3,FALSE
+45,Mexican,expensive,Financial District,8:00,18:00,3.9,FALSE
+46,Thai,cheap,Chelsea,8:00,20:00,4.2,FALSE
+47,Greek,expensive,Lower East Side,8:00,15:00,3.6,FALSE
+48,Thai,cheap,Upper West Side,8:00,12:00,3.2,FALSE
+49,Middle Eastern,cheap,Flushing,8:00,12:00,2.1,FALSE
+50,Vietnamese,medium,Tribeca,8:00,19:00,3.9,TRUE
+51,Indian,cheap,Bay Ridge,8:00,18:00,4.6,FALSE
+52,Italian,expensive,Upper West Side,8:00,14:00,4.2,FALSE
+53,Indian,expensive,Tribeca,8:00,16:00,3,TRUE
+54,Caribbean,expensive,Upper West Side,8:00,17:00,4.1,TRUE
+55,French,cheap,Financial District,8:00,16:00,3.3,TRUE
+56,Chinese,expensive,Bedford-Stuyvesant,8:00,12:00,4.7,FALSE
+57,Spanish,medium,SoHo,8:00,18:00,2.4,FALSE
+58,German,medium,Inwood,8:00,13:00,3.7,TRUE
+59,Greek,expensive,Crown Heights,8:00,18:00,5,FALSE
+60,Middle Eastern,medium,East Village,8:00,12:00,3.5,TRUE
+61,Spanish,expensive,Flushing,8:00,15:00,2.9,TRUE
+62,Vietnamese,expensive,Battery Park City,8:00,18:00,4.1,TRUE
+63,Mexican,expensive,Hell's Kitchen,8:00,14:00,2.1,FALSE
+64,British,cheap,Melrose,8:00,18:00,3.7,TRUE
+65,Vietnamese,cheap,Flushing,8:00,20:00,2.1,FALSE
+66,German,medium,Tribeca,8:00,17:00,1.1,FALSE
+67,British,expensive,Park Slope,8:00,15:00,4,TRUE
+68,Vietnamese,medium,Bedford-Stuyvesant,8:00,12:00,2,FALSE
+69,Italian,medium,Bedford-Stuyvesant,8:00,19:00,2.3,FALSE
+70,Eastern European,expensive,Crown Heights,8:00,20:00,4.8,TRUE
+71,British,cheap,Harlem,8:00,14:00,3.6,TRUE
+72,American,cheap,Chelsea,8:00,14:00,3.1,TRUE
+73,French,expensive,Crown Heights,8:00,12:00,5,FALSE
+74,Thai,medium,Red Hook,8:00,13:00,1.1,TRUE
+75,Indian,expensive,Inwood,8:00,19:00,1.3,TRUE
+76,Mediterranean,medium,Upper East Side,8:00,20:00,1.6,TRUE
+77,Mexican,cheap,Battery Park City,8:00,19:00,2.5,FALSE
+78,Vietnamese,medium,Coney Island,8:00,17:00,1.2,FALSE
+79,Spanish,medium,East Village,8:00,14:00,3.2,FALSE
+80,Spanish,expensive,Upper East Side,8:00,16:00,4.3,FALSE
+81,Caribbean,expensive,SoHo,8:00,13:00,1.3,TRUE
+82,Chinese,expensive,Sunset Park,8:00,17:00,3.4,FALSE
+83,Chinese,expensive,Bushwick,8:00,18:00,2.3,TRUE
+84,German,medium,Park Slope,8:00,15:00,4.4,FALSE
+85,German,cheap,Chelsea,8:00,14:00,2.9,TRUE
+86,British,medium,Gowanus,8:00,19:00,3.8,FALSE
+87,Italian,medium,Hell's Kitchen,8:00,17:00,3.3,TRUE
+88,Italian,expensive,Williamsburg,8:00,13:00,4.7,TRUE
+89,Indian,medium,Upper West Side,8:00,16:00,1.4,TRUE
+90,Thai,medium,Flushing,8:00,16:00,4.5,FALSE
+91,British,expensive,Red Hook,8:00,20:00,4.9,TRUE
+92,Korean,cheap,Greenpoint,8:00,13:00,1.3,FALSE
+93,Italian,cheap,Financial District,8:00,12:00,1.8,TRUE
+94,British,cheap,Tribeca,8:00,12:00,1.4,TRUE
+95,Italian,cheap,East Village,8:00,12:00,3.3,TRUE
+96,Indian,cheap,Lower East Side,8:00,19:00,4.5,TRUE
+97,Caribbean,cheap,Washington Heights,8:00,13:00,1.8,FALSE
+98,Greek,cheap,Greenpoint,8:00,13:00,2.7,TRUE
+99,Mediterranean,expensive,Battery Park City,8:00,17:00,4.6,FALSE
+100,Spanish,cheap,East Village,8:00,20:00,3.4,TRUE
